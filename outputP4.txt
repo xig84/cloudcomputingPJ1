@@ -1,0 +1,1 @@
+/apache-log/access.log	630006
