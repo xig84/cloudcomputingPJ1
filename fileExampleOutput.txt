@@ -1,0 +1,13 @@
+Hadoop	2
+Hello	2
+This	1
+WordCount	1
+a	2
+distributed	1
+end	1
+example	1
+for	1
+framework	1
+is	2
+processing	1
+world	1
