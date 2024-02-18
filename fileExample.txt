@@ -1,0 +1,5 @@
+Hello world
+Hello Hadoop
+Hadoop is a framework for distributed processing
+This is a WordCount example
+end
